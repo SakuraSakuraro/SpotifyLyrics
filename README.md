@@ -1,9 +1,11 @@
 # Getting Lyrics from Spotify
 To start, simply replace "set your authorization token" in 
- ```authorization': 'set your authorization token
+ ```python
+authorization': 'set your authorization token
  ```
 and "set your client token" in 
- ```client-token': 'set your client token
+ ```python
+client-token': 'set your client token
  ```
  with your token (you can obtain it from traffic analysis).
 
