@@ -12,7 +12,8 @@ client-token': 'set your client token
 And just run SpotifyLyricsAPI.py!
 
 # Flags
-The program can also be run with the flags -id and -filename for automation. 
+The program can also be run with the flags -id and -filename for automation.
+
 If you want to receive the raw API response as well, run it with the -debug flag. 
 
 # Tested on
